@@ -6,4 +6,4 @@ config.h.in
 autom4te.cache
 
 # Devs should be configuring and building in the ./build directory
-build/
+
